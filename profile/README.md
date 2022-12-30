@@ -11,6 +11,7 @@ The NopeCHA API can solve the following types of CAPTCHAs:
 - FunCAPTCHA
 - AWS WAF CAPTCHA
 - Text-based CAPTCHA
+- Cloudflare Turnstile
 
 ## Official NopeCHA Repositories
 - [NopeCHA Example Scripts](https://github.com/nopecha-ai/nopecha-scripts)
